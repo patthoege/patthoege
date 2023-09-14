@@ -1,6 +1,5 @@
 <div id="header" align="center">
   <h1 align="center">Hi, I'm Patricia</h1>
-  <img align="center" src="" width='200'>
   <img align='center' src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="230">
 <br>
   <h3 align="center">Student Web developer 
@@ -21,13 +20,13 @@
 # 🚀 About Me:
 
 - 💬 Ask me about **Photography, TV shows, Culture.**<br>
-- 🌱 &nbsp;In my free time, I enjoy photography, outdoors and spending time with friends.
+- 🌱 &nbsp;In my free time, I enjoy photography, outdoors, nature and spending time with friends.
 <br>
 <br>
 
-### 🎓 &nbsp;I am currently completing this 
-Code Institute - Diploma in Full Stack Software Development Program.<br><a href="https://codeinstitute.net/full-stack-software-development-diploma/"><img src="https://avatars.githubusercontent.com/u/16867170?s=200&v=4" width='100'></a>
-<br>
+### 🎓 &nbsp;I am currently completing this program
+<br><a href="https://codeinstitute.net/full-stack-software-development-diploma/"><img src="https://avatars.githubusercontent.com/u/16867170?s=200&v=4"  align="left" width='100'></a> <br> Full Stack Software Development Program
+
 
 <br>
 <br>
