@@ -5,7 +5,7 @@
   <h3 align="center">Student Web developer 
   <br>based in Germany</h3>
   <div id="badges">
-    <a href="www.linkedin.com/in/patricia-höge">
+    <a href="https://www.linkedin.com/in/patricia-h%C3%B6ge-417b72228/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
     <a href="https://github.com/patthoege">
